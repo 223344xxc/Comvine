@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 03462a79e2b143646810624b812291cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6421796354859579091
+    second: SceneChangeMotion_0
+  - first:
+      213: -1733265152507497937
+    second: SceneChangeMotion_1
+  - first:
+      213: -4983726545771566414
+    second: SceneChangeMotion_2
+  - first:
+      213: 8073945003836708726
+    second: SceneChangeMotion_3
+  - first:
+      213: -8517607985563616324
+    second: SceneChangeMotion_4
+  - first:
+      213: 548078979246350481
+    second: SceneChangeMotion_5
+  - first:
+      213: 3839329871967704636
+    second: SceneChangeMotion_6
+  - first:
+      213: -1581334974924557368
+    second: SceneChangeMotion_7
+  - first:
+      213: 8001782300030105584
+    second: SceneChangeMotion_8
+  - first:
+      213: 5134804698976509218
+    second: SceneChangeMotion_9
+  - first:
+      213: -3965424014367844608
+    second: SceneChangeMotion_10
+  - first:
+      213: -2176479930182420611
+    second: SceneChangeMotion_11
+  - first:
+      213: -6497582512490236371
+    second: SceneChangeMotion_12
+  - first:
+      213: -2368158976406295642
+    second: SceneChangeMotion_13
+  - first:
+      213: 1463970374749877769
+    second: SceneChangeMotion_14
+  - first:
+      213: 4066240139418467615
+    second: SceneChangeMotion_15
+  - first:
+      213: -2519008093653332259
+    second: SceneChangeMotion_16
+  - first:
+      213: -5726583530917289356
+    second: SceneChangeMotion_17
+  - first:
+      213: 2807215500931690152
+    second: SceneChangeMotion_18
+  - first:
+      213: 1108018874414347433
+    second: SceneChangeMotion_19
+  - first:
+      213: 6684712321134317924
+    second: SceneChangeMotion_20
+  - first:
+      213: 5015257317453264549
+    second: SceneChangeMotion_21
+  - first:
+      213: 2629807384503036924
+    second: SceneChangeMotion_22
+  - first:
+      213: 5416936284327087017
+    second: SceneChangeMotion_23
+  - first:
+      213: -6437065020328526661
+    second: SceneChangeMotion_24
+  - first:
+      213: -7189960453460716147
+    second: SceneChangeMotion_25
+  - first:
+      213: 8780970890780565142
+    second: SceneChangeMotion_26
+  - first:
+      213: -2766806874838133891
+    second: SceneChangeMotion_27
+  - first:
+      213: -5010990103414972826
+    second: SceneChangeMotion_28
+  - first:
+      213: 319499773872481219
+    second: SceneChangeMotion_29
+  - first:
+      213: -6855645604937246212
+    second: SceneChangeMotion_30
+  - first:
+      213: 5054558196770104845
+    second: SceneChangeMotion_31
+  - first:
+      213: -4091849160696068633
+    second: SceneChangeMotion_32
+  - first:
+      213: 6860175798352092493
+    second: SceneChangeMotion_33
+  - first:
+      213: 8485839450424217952
+    second: SceneChangeMotion_34
+  - first:
+      213: -6402806986562249570
+    second: SceneChangeMotion_35
+  - first:
+      213: -7258041415428229216
+    second: SceneChangeMotion_36
+  - first:
+      213: 8043668400822863517
+    second: SceneChangeMotion_37
+  - first:
+      213: -6692106692547593203
+    second: SceneChangeMotion_38
+  - first:
+      213: -1015227236937226977
+    second: SceneChangeMotion_39
+  - first:
+      213: -7606659552114721364
+    second: SceneChangeMotion_40
+  - first:
+      213: 8834096063608491544
+    second: SceneChangeMotion_41
+  - first:
+      213: -3750525940348307817
+    second: SceneChangeMotion_42
+  - first:
+      213: -176365621024971654
+    second: SceneChangeMotion_43
+  - first:
+      213: 8227116543767225570
+    second: SceneChangeMotion_44
+  - first:
+      213: -4007471736549193308
+    second: SceneChangeMotion_45
+  - first:
+      213: 3095801088537652372
+    second: SceneChangeMotion_46
+  - first:
+      213: -834326928720150245
+    second: SceneChangeMotion_47
+  - first:
+      213: 6076763195113839510
+    second: SceneChangeMotion_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SceneChangeMotion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11520
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2942b84d3231e6a0800000000000000
+      internalID: -6421796354859579091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 11520
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223a3be68432f7e0800000000000000
+      internalID: -1733265152507497937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 11520
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bae99d8c1f36dab0800000000000000
+      internalID: -4983726545771566414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 11520
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6771ab1143a6c0070800000000000000
+      internalID: 8073945003836708726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 11520
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb33745aa06bc980800000000000000
+      internalID: -8517607985563616324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 11520
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19066d28dea2b9700800000000000000
+      internalID: 548078979246350481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 11520
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365e2a4d2a084530800000000000000
+      internalID: 3839329871967704636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c378b4f738fd0ae0800000000000000
+      internalID: -1581334974924557368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 9600
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f77d4b4b9a0c0f60800000000000000
+      internalID: 8001782300030105584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 9600
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d50891bad724740800000000000000
+      internalID: 5134804698976509218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_10
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 9600
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071dcf5edbf7f8c0800000000000000
+      internalID: -3965424014367844608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_11
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 9600
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77b5b4f8079bc1e0800000000000000
+      internalID: -2176479930182420611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_12
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 9600
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ba3c6123f3d5a0800000000000000
+      internalID: -6497582512490236371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_13
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 9600
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab66af35fb922fd0800000000000000
+      internalID: -2368158976406295642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90679a4ac41115410800000000000000
+      internalID: 1463970374749877769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7680
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df879ecdf2e6830800000000000000
+      internalID: 4066240139418467615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 7680
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde857f2c7faa0dd0800000000000000
+      internalID: -2519008093653332259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_17
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 7680
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472a21f8e961780b0800000000000000
+      internalID: -5726583530917289356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7680
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee005ff9b35f620800000000000000
+      internalID: 2807215500931690152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_19
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 7680
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a435e5bb49706f00800000000000000
+      internalID: 1108018874414347433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_20
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 7680
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46153ee507ed4cc50800000000000000
+      internalID: 6684712321134317924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6faff45f5c99540800000000000000
+      internalID: 5015257317453264549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5760
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfba00502e3fe7420800000000000000
+      internalID: 2629807384503036924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5760
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8d36b9d2dc2b40800000000000000
+      internalID: 5416936284327087017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_24
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5760
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb9331873faa6a0800000000000000
+      internalID: -6437065020328526661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_25
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5760
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d851e56cf01283c90800000000000000
+      internalID: -7189960453460716147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_26
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5760
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e550860864cd970800000000000000
+      internalID: 8780970890780565142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_27
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5760
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d731a277ec35a99d0800000000000000
+      internalID: -2766806874838133891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed3f0ec03657ab0800000000000000
+      internalID: -5010990103414972826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3840
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3ac7ff9571f6400800000000000000
+      internalID: 319499773872481219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3840
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95fb325aadbd0a0800000000000000
+      internalID: -6855645604937246212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3840
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06650756e5652640800000000000000
+      internalID: 5054558196770104845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_32
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3840
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50b3e2ed4d637c0800000000000000
+      internalID: -4091849160696068633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_33
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3840
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d1285ba8d343f50800000000000000
+      internalID: 6860175798352092493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_34
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3840
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061188f2502c3c570800000000000000
+      internalID: 8485839450424217952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c519028f8a427a0800000000000000
+      internalID: -6402806986562249570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1920
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b35499c1464b90800000000000000
+      internalID: -7258041415428229216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_37
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1920
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c41a1bc9d0af60800000000000000
+      internalID: 8043668400822863517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1920
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cbfaf5b6cd023a0800000000000000
+      internalID: -6692106692547593203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_39
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1920
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152e08f43039e1f0800000000000000
+      internalID: -1015227236937226977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_40
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1920
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadbedc6077bf6690800000000000000
+      internalID: -7606659552114721364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_41
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1920
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8f079093099a70800000000000000
+      internalID: 8834096063608491544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796b6a4478473fbc0800000000000000
+      internalID: -3750525940348307817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742730f66c6d8df0800000000000000
+      internalID: -176365621024971654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e42cfc48e69c2270800000000000000
+      internalID: 8227116543767225570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_45
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9419720b99268c0800000000000000
+      internalID: -4007471736549193308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_46
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ced8110be76fa20800000000000000
+      internalID: 3095801088537652372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_47
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c71b2410eb64f0800000000000000
+      internalID: -834326928720150245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceneChangeMotion_48
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 1080
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b9dec0eeff45450800000000000000
+      internalID: 6076763195113839510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
